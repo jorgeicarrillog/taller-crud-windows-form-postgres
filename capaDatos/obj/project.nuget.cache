@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Womc+svvDe4g8uo0r2oh4jbBPc64rDQDYgfXnRGUnoGLT54NJx/lgkVrQ+cAoSJOtH1z6LCHyEhPA8bl/AJ8Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

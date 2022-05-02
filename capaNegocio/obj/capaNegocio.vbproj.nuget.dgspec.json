@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaNegocio\\capaNegocio.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj",
+        "projectName": "capaDatos",
+        "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj": {
+                "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj",
+        "projectName": "capaEntidad",
+        "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaNegocio\\capaNegocio.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaNegocio\\capaNegocio.vbproj",
+        "projectName": "capaNegocio",
+        "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaNegocio\\capaNegocio.vbproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj": {
+                "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaDatos\\capaDatos.vbproj"
+              },
+              "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj": {
+                "projectPath": "C:\\Users\\jorge\\Documents\\JORGE\\UAM\\Sem 7\\Frond\\Dev\\taller-clase-visualstudio\\proyecto-ejemplo\\capaEntidad\\capaEntidad.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

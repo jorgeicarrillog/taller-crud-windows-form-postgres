@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\bin\Debug\net5.0-windows\capaEntidad.deps.json
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\bin\Debug\net5.0-windows\capaEntidad.dll
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\bin\Debug\net5.0-windows\ref\capaEntidad.dll
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\bin\Debug\net5.0-windows\capaEntidad.pdb
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.AssemblyInfo.vb
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.dll
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\ref\capaEntidad.dll
+C:\Users\jorge\Documents\JORGE\UAM\Sem 7\Frond\Dev\taller-clase-visualstudio\proyecto-ejemplo\capaEntidad\obj\Debug\net5.0-windows\capaEntidad.pdb
